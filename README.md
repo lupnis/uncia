@@ -6,6 +6,10 @@ This repository is the starting point for the Unified Node for Computational Int
 
 The vision behind UNCIA is to explore and define a supercomputing architecture that can integrate computational intelligence with large-scale analytics. At this stage, the project is primarily focused on conceptual design, planning, and organization.
 
+## Overall architecture
+
+![](./res/architecture/screenshot_overall_arch.png)
+
 ## Current Status 🛠️
 
 The project is still under early development.
